@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-10T07:25:32Z" name="Default suite" finished-at="2022-12-10T07:25:32Z" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2022-12-10T07:25:32Z" name="Default test" finished-at="2022-12-10T07:25:32Z" duration-ms="42">
+      <class name="com.flipkart.stepdefinition.MobilePurchase">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="launch" finished-at="2022-12-10T07:25:32Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="search(java.lang.String)[pri:2, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="search" data-provider="mobile" finished-at="2022-12-10T07:25:32Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[redmi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="startTime" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="endTime" finished-at="2022-12-10T07:25:32Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="startTime" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="mobileClick()[pri:3, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="mobileClick" finished-at="2022-12-10T07:25:32Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileClick -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="endTime" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="windowHandling()[pri:4, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="windowHandling" finished-at="2022-12-10T07:25:32Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowHandling -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="startTime" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="startTime" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="addToCart()[pri:5, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="addToCart" finished-at="2022-12-10T07:25:32Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="endTime" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="endTime" finished-at="2022-12-10T07:25:32Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.flipkart.stepdefinition.MobilePurchase@7ceb3185]" started-at="2022-12-10T07:25:32Z" name="close" finished-at="2022-12-10T07:25:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.flipkart.stepdefinition.MobilePurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
